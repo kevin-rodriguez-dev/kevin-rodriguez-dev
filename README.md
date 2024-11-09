@@ -13,10 +13,6 @@
     </em>
 </p>
 
-<section align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-rodriguez-dev&theme=radical" />
-</section>
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" />&nbsp;***SKILLS***
 
 ```jsx
@@ -34,4 +30,4 @@ export const KevinRodriguez = () => {
 ```
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=kevin-rodriguez-dev&langs_count=8&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevin-rodriguez-dev&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kevin-rodriguez-dev&theme=radical)
